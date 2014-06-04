@@ -5,7 +5,8 @@
 	</head>
 	
 	<body>
-		<p>hello world - About
+		<p>hello world
 		</p>
+		<p>About: it's called the earth.</p>
 	</body>
 </html>
