@@ -6,6 +6,6 @@
 	
 	<body>
 		<p>hello world</p>
-		<p>About: it's called the My Home... Man!</p>
+		<p>About: it's called the earth... But there is more.</p>
 	</body>
 </html>
